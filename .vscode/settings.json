@@ -1,0 +1,17 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "explorer.openEditors.visible": 0,
+    "workbench.settings.editor": "json",
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.visible": true,
+    "peacock.affectActivityBar": false,
+    "peacock.affectStatusBar": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "npm.enableScriptExplorer": false,
+    "python.formatting.provider": "autopep8",
+}
