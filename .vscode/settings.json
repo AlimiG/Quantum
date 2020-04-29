@@ -6,7 +6,6 @@
     "explorer.openEditors.visible": 0,
     "workbench.settings.editor": "json",
     "breadcrumbs.enabled": false,
-    "workbench.activityBar.visible": true,
     "peacock.affectActivityBar": false,
     "peacock.affectStatusBar": false,
     "editor.formatOnPaste": true,
